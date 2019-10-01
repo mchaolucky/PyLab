@@ -3,12 +3,7 @@ print('hello world,qytang!')
 # print('hello world,qytang!')
 # print('hello world,qytang!')
 
-print('hello world,qytang!')
-print('hello world,qytang!')
-print('hello world,qytang!')
-
-
-print('hello world,qytang!')
+print('github commit!')
 
 
 
