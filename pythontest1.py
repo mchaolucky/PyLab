@@ -3,7 +3,10 @@ print('hello world,qytang!')
 # print('hello world,qytang!')
 # print('hello world,qytang!')
 
-print('github commit!')
+print('welcome to python!')
+print('welcome to fresher')
+
+
 
 
 
